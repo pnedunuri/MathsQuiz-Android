@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathsQuiz</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_screen_title">Test your Arithmetic skills. Select one and play!</string>
+</resources>

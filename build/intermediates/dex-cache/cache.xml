@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_04eba0d3fec82c2afd5cba02050513f83c62a68d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_f8f5cfc96d1ddf03a215aaafdbba925e42f43f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_f7f95a22e2b7e163a69ea0364aaeda414cb04126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_fc606219b73630089acb8e147c32d30e07a906e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f83e505f2b74a996fa4763d78285c96c84596565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cb271cd7b51c6ffab005795e5a4692eb53c7265b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_d4526a1e238583377c4a905581c2e3537c6904d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_471a0ca7c77c6f05bd68eabc9724e2172b742838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_11367d1ff4e05d5b2c52bfc4a7d1ae76cad181f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_cd7bd8e63654671abd2331ad0f6afdf53d530f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3e49fa28ca9c6d4e750195a196cc8c1e52f6038c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9cdf1d1e959e2fb5ddca21e58850753be5391a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_da415e297d6e72d10bfdc4a790b7c408e9974118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_b3aa6badf066b2c0b419dd75259dc1be51eb95d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pnedunuri/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/pnedunuri/AndroidStudioProjects/MathsQuizCMPE277 /app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_79509b0ed4d7e23271055a05b1f91216f169a7dd.jar" />
+    </item>
+
+</items>

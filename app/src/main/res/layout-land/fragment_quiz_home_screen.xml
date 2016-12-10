@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.sjsu.cmpe277.org.mathsquizcmpe277.QuizHomeScreenFrag">
+
+    <TextView
+        android:text="@string/home_screen_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id="@+id/homeScreenDesc"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/addButton"
+        android:layout_marginTop="34dp"
+        android:elevation="10dp"
+        android:backgroundTint="@android:color/background_light"
+        android:layout_below="@+id/homeScreenDesc"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="Sub"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/subButton"
+        android:layout_marginTop="19dp"
+        android:elevation="10dp"
+        android:backgroundTint="@android:color/background_light"
+        android:layout_below="@+id/addButton"
+        android:layout_alignLeft="@+id/addButton"
+        android:layout_alignStart="@+id/addButton" />
+
+    <Button
+        android:text="Product"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mulButton"
+        android:layout_marginTop="21dp"
+        android:elevation="10dp"
+        android:backgroundTint="@android:color/background_light"
+        android:layout_below="@+id/subButton"
+        android:layout_alignLeft="@+id/subButton"
+        android:layout_alignStart="@+id/subButton"
+        android:layout_alignRight="@+id/subButton"
+        android:layout_alignEnd="@+id/subButton" />
+
+    <Button
+        android:text="Quit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/quitButton"
+        android:elevation="10dp"
+        android:backgroundTint="@color/colorAccent"
+        android:layout_marginRight="17dp"
+        android:layout_marginEnd="17dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="@android:color/background_light" />
+
+</RelativeLayout>
